@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/code_demo.iml" filepath="$PROJECT_DIR$/.idea/code_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-project/java-project.iml" filepath="$PROJECT_DIR$/java-project/java-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-consumer/spring-consumer.iml" filepath="$PROJECT_DIR$/spring-consumer/spring-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-server/spring-server.iml" filepath="$PROJECT_DIR$/spring-server/spring-server.iml" />
     </modules>
   </component>
 </project>
