@@ -10,12 +10,27 @@ import org.springframework.web.client.RestTemplate;
 public class ConsumerController {
 
     @Autowired
-    private RestTemplate restTemplate;
+    private FeignTest feignTest;
 
-    @RequestMapping("/testConsumer")
+   /* @RequestMapping("/testConsumer")
     public String testConsumer(){
 
         return restTemplate.getForEntity("http://SPRING-CLOUD-SERVER/test/testServer",String.class).getBody();
+
+    }
+
+    @RequestMapping("/testFeign2")
+    public String testFeign2(){
+
+        return restTemplate.getForEntity("http://trade-query/statistic/investTopYesterday",String.class).getBody();
+
+    }*/
+
+    @RequestMapping("/testFeign")
+    public String testFeign(){
+
+        System.out.println("..............");
+        return feignTest.testFe();
 
     }
 }

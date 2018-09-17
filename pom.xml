@@ -13,6 +13,7 @@
         <module>spring-server</module>
         <module>spring-consumer</module>
         <module>java-project</module>
+        <module>spring-api-gateway</module>
     </modules>
 
     <!-- Inherit defaults from Spring Boot -->
