@@ -9,17 +9,19 @@
         <module name="java-project" />
         <module name="spring-api-gateway" />
         <module name="spring-cloud-eureka" />
+        <module name="spring-config-server" />
         <module name="spring-consumer" />
         <module name="spring-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="code_demo" target="1.6" />
-      <module name="java-project" target="1.6" />
-      <module name="spring-api-gateway" target="1.6" />
-      <module name="spring-cloud-eureka" target="1.6" />
+      <module name="java-project" target="1.5" />
+      <module name="spring-api-gateway" target="1.5" />
+      <module name="spring-cloud-eureka" target="1.5" />
+      <module name="spring-config-server" target="1.6" />
       <module name="spring-consumer" target="1.8" />
-      <module name="spring-server" target="1.6" />
+      <module name="spring-server" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
