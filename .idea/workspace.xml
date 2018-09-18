@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d008c70-04b6-472d-9a41-b507be553fca" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/spring-config-server/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/spring-config-server/src/main/resources/application.properties" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/configpaths/code_demo-dev.prpperties" afterPath="$PROJECT_DIR$/configpaths/demo-dev.prpperties" />
+      <change beforePath="$PROJECT_DIR$/configpaths/code_demo-prod.prpperties" afterPath="$PROJECT_DIR$/configpaths/demo-prod.prpperties" />
+      <change beforePath="$PROJECT_DIR$/configpaths/code_demo-test.prpperties" afterPath="$PROJECT_DIR$/configpaths/demo-test.prpperties" />
+      <change beforePath="$PROJECT_DIR$/configpaths/code_demo.prpperties" afterPath="$PROJECT_DIR$/configpaths/demo.prpperties" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spring-cloud-eureka/target/" />
@@ -30,18 +34,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-config-server/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+            <state relative-caret-position="168">
+              <caret line="8" column="52" lean-forward="false" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="code_demo.prpperties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/configpaths/code_demo.prpperties">
+      <file leaf-file-name="demo.prpperties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/configpaths/demo.prpperties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="20" />
@@ -50,8 +54,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="code_demo-dev.prpperties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/configpaths/code_demo-dev.prpperties">
+      <file leaf-file-name="demo-dev.prpperties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/configpaths/demo-dev.prpperties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo-test.prpperties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/configpaths/demo-test.prpperties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
@@ -60,18 +74,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="code_demo-test.prpperties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/configpaths/code_demo-test.prpperties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="code_demo-prod.prpperties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/configpaths/code_demo-prod.prpperties">
+      <file leaf-file-name="demo-prod.prpperties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/configpaths/demo-prod.prpperties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
@@ -645,12 +649,12 @@
       <workItem from="1535348105995" duration="6919000" />
       <workItem from="1536045781840" duration="5558000" />
       <workItem from="1537152376413" duration="3255000" />
-      <workItem from="1537180538072" duration="4889000" />
+      <workItem from="1537180538072" duration="5890000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147804000" />
+    <option name="totallyTimeSpent" value="148805000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="-5" width="1930" height="1050" extended-state="6" />
@@ -677,7 +681,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48329622" sideWeight="0.49573562" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5063966" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5011136" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1114,7 +1118,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/configpaths/code_demo.prpperties">
+    <entry file="file://$PROJECT_DIR$/spring-config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="52" lean-forward="false" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configpaths/demo.prpperties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="20" />
@@ -1122,7 +1134,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/configpaths/code_demo-dev.prpperties">
+    <entry file="file://$PROJECT_DIR$/configpaths/demo-test.prpperties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
@@ -1130,7 +1142,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/configpaths/code_demo-prod.prpperties">
+    <entry file="file://$PROJECT_DIR$/configpaths/demo-prod.prpperties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
@@ -1138,18 +1150,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/configpaths/code_demo-test.prpperties">
+    <entry file="file://$PROJECT_DIR$/configpaths/demo-dev.prpperties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-config-server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
           <folding />
         </state>
       </provider>
