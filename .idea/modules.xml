@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/code_demo.iml" filepath="$PROJECT_DIR$/.idea/code_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-project/java-project.iml" filepath="$PROJECT_DIR$/java-project/java-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-api-gateway/spring-api-gateway.iml" filepath="$PROJECT_DIR$/spring-api-gateway/spring-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot/spring-boot.iml" filepath="$PROJECT_DIR$/spring-boot/spring-boot.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config-client/spring-config-client.iml" filepath="$PROJECT_DIR$/spring-config-client/spring-config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-config-server/spring-config-server.iml" filepath="$PROJECT_DIR$/spring-config-server/spring-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-consumer/spring-consumer.iml" filepath="$PROJECT_DIR$/spring-consumer/spring-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-server/spring-server.iml" filepath="$PROJECT_DIR$/spring-server/spring-server.iml" />
